@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://theoryculture.github.io/sitemap.xml
+Sitemap: https://sachal-abdullah.github.io/sitemap.xml

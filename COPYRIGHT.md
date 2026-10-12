@@ -8,7 +8,7 @@ arrangement on `/graph-theory-art-gallery/` — is an original work of
 Sachal Abdullah.
 
 No licence is granted. The files are published for viewing on
-https://theoryculture.github.io/ only. Copying, reproduction, distribution,
+https://sachal-abdullah.github.io/ only. Copying, reproduction, distribution,
 training of models, or any other use, commercial or otherwise, requires
 prior written permission.
 
