@@ -111,7 +111,7 @@
                 '<div class="inset-rule"></div>' +
                 '<p class="kicker">A printed notebook</p>' +
                 "<h2>Uniquely<br>Hamiltonian<br>graphs</h2>" +
-                "<p>Drawings from a working notebook: vertices, edges, transitions, snarks, and constructions. Compiled from TikZ. One plate per page.</p>" +
+                "<p>Drawing from my ongoing hunt for uniquely Hamiltonian graphs.</p>" +
                 '<div class="title-foot"><span>Sachal Abdullah</span><span>© 2026</span></div>' +
                 "</div>"
             );
