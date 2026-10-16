@@ -174,7 +174,7 @@
                 '<div class="inset-rule"></div>' +
                 "<h2>Colophon</h2>" +
                 "<p>685 plates. Drawn in Mathcha.</p>" +
-                "<p>These drawings represent my catalogue my journey in finding uniquely Hamiltonian graphs.</p>" +
+                "<p>These drawings catalogue my journey in finding uniquely Hamiltonian graphs.</p>" +
                 "<p>© 2026 Sachal Abdullah. All rights reserved. The plates may not be copied, reproduced, or used without permission.</p>" +
                 "<p>Sachal Abdullah</p>" +
                 "</div>"
